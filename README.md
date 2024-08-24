@@ -40,6 +40,7 @@ Procfile
 Puppetfile
 Rakefile
 Sitefile
+Taskfile
 Tenderfile
 Vagrantfile
 ```
